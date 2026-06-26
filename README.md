@@ -197,6 +197,6 @@ To run headless (no visible Chrome window), uncomment this line in `build_driver
 
 ---
 
-## License
+## Developed BY
 
-MIT
+Anant Awishkar
